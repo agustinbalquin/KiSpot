@@ -8,8 +8,7 @@ This is a simple social media application where users can like favorite and post
 This project is a website written in Ruby using the popular framework Ruby on Rails, CSS, JavaScript, while using PostgreSQL for database requirements. Any e-mail/password combination is hashed by devise and is not attainable by anyone.
 
 The website is currently hosted on Heroku under KiSpot
-Current Status: Offline (Heroku Dynos are being used for another project)
---------------------------------------------------------
+Current Status: Offline (Heroku Dynos are currently being used)
 
 Concerns
 ------
